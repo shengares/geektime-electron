@@ -1,10 +1,13 @@
+# ares说明
+1、从GitHub上拉取资料：极客时间视频课程《Electron开发实战》课件及源码资料。
+2、将下方 快速入门/课程课件 的链接地地址改成了本Gitee的地址。
+
 # geektime-electron
 极客时间视频课程《Electron开发实战》课件及源码 <https://time.geekbang.org/course/intro/269>
 
-
 # 快速入口
 * [视频教程 📺](https://time.geekbang.org/course/intro/269)
-* [课程课件 📚](https://github.com/dengyaolong/geektime-electron/tree/master/PDF)
+* [课程课件 📚](https://github.com/tielan/geektime-electron/tree/master/PDF)
 * [番茄钟 🍅 ](https://github.com/dengyaolong/geektime-electron/tree/master/Chapter%201/8-pomodoro-homework)
 * [心形曲线 💝 ](https://github.com/dengyaolong/geektime-electron/tree/master/Chapter%202/4-robot-heart)
 
